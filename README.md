@@ -1,5 +1,3 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
 # GaryTheBlobfish
 
 <a href="https://github.com/jstrieb/github-stats">
