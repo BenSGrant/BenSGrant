@@ -7,8 +7,6 @@
 
 </a>
 
-![image of VoxelEngine](/res/foggy.png "Foggy VoxelEngine")
-
 ### About [me](https://garytheblobfish.github.io):
 
   - I am a C++ developer with experience in Java and Python on the side
