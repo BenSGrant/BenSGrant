@@ -2,8 +2,8 @@
 
 <a>
 
-![](https://github.com/GaryTheBlobfish/GaryTheBlobfish/blob/master/generated/overview.svg)
-![](https://github.com/GaryTheBlobfish/GaryTheBlobfish/blob/master/generated/languages.svg)
+![](https://github.com/GaryTheBlobfish/GaryTheBlobfish/blob/master/generated/overview.svg)()
+![](https://github.com/GaryTheBlobfish/GaryTheBlobfish/blob/master/generated/languages.svg)(https://github.com/GaryTheBlobfish?tab=repositories)
 
 </a>
 
