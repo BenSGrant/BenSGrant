@@ -9,9 +9,9 @@
 
 ### About [me](https://garytheblobfish.github.io):
 
-  - I am a C++ developer with experience in Java and Python on the side
-  - I like to code games and program graphics with C++ and OpenGL
-  - For games that I make with friends, I use Unity
+  - I am a software and game developer with (some) experience in C++, Java and Python  
+  - I like to program graphics with C++ and OpenGL  
+  - For full games that I make with friends and on my own, I use Unity  
 
 ### Currently working on:
   - A private game engine
