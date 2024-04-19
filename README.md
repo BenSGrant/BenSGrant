@@ -9,11 +9,7 @@
 
 ### About [me](https://garytheblobfish.github.io):
 
-  - I am a software and game developer with (some) experience in C++, Java and Python  
-  - I like to program graphics with C++ and OpenGL  
-  - For full games that I make with friends and on my own, I use Unity  
+  - I am a software and game developer with (some) experience in C++, Java and Python as well as experience dealing with SQL interfacing with python.
+  - I have experience developing desktop applications using Qt, graphics programming with OpenGL and some Raylib.
+  - I am going to be studying Physics at university
 
-### Currently working on:
-  - A private game engine
-  - Games with an indie studio (ish) made up of me and a couple of friends (see [Joxnt](https://github.com/joxnt))
-  - ![A Voxel Engine](https://github.com/GaryTheBlobfish/VoxelEngine)
