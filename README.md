@@ -1,4 +1,4 @@
-# Ben S Grant
+# Ben Grant
 
 <a>
 
