@@ -7,8 +7,6 @@
   
 </a>
 
-[//]: <>( [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenSGrant)](https://github.com/anuraghazra/github-readme-stats))
-
 ### About [me](https://bensgrant.github.io):
 
   - I am a hobbyist programmer with (some) experience in C++, Java and Python as well as experience dealing with SQL interfacing with python.
